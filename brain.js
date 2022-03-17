@@ -50,7 +50,7 @@ function fun1() {
         "😃ho gaya khatam! tata! 🙋‍♂️🤟bye!bye! phir test karna cahate ho kya?"
       );
       if (rel == true) {
-        window.location = "typing.html";
+        location.reload();
         rel = false;
         y = y - 1;
       }
