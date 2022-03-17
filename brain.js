@@ -82,7 +82,7 @@ function Com(txt) {
       window.quotespanarray = document.querySelectorAll("em");
     });
   };
-  ***************************************************for coluring text**************************************************************************************
+  //***************************************************for coluring text**************************************************************************************
   appening_each_txt_in_span();
   //comparing both fetched txt with input txt
   document.getElementById("text2").addEventListener(
